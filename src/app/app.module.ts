@@ -24,6 +24,7 @@ import { ShippingComponent } from './shipping/shipping.component';
       { path: 'shipping', component: ShippingComponent },
     ])
   ],
+
   declarations: [
     AppComponent,
     TopBarComponent,
